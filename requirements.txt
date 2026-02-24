@@ -20,6 +20,7 @@ openpyxl
 
 # Text Splitting & Embeddings
 tiktoken
+langchain-text-splitters
 
 # Environment & Config
 python-dotenv
@@ -30,3 +31,4 @@ ragas
 # Utilities
 tqdm
 cohere
+langchain-cohere
