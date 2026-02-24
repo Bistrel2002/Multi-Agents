@@ -38,7 +38,7 @@ As outlined in `architecture.md` and implemented in `RagChatbot.ipynb`, the syst
    PINECONE_API_KEY="your_pinecone_key"
    COHERE_API_KEY="your_cohere_key"
    ```
-4. Place your PDF documents inside the `data/` folder.  
+4. Create a `data` folder and place your PDF documents inside the `data/` folder.  
    *(Note: The actual PDF files in this folder are ignored by Git to keep the repository lightweight and your proprietary data secure.)*
 
 ## 💻 Usage
